@@ -1,13 +1,12 @@
-# Way-to-MLSDE
+# Competative programming log
 
 Created by WeiYong on 2017-12-22.
 
-沿算法编程和机器学习两条主线，记录通往MLSDE路上的点滴。
-持续维护更新。
+《算经》(Let's call it Programming book) is a opensource book about Competative Programming. It is written in Chinese. There are mainly three parts of Programming book.
 
-算法编程
-  指导性文案：《算经》总结记录所见有趣的编程问题，加以分析总结以及算法学习心得。
-  
-  
-机器学习
-  指导性文案：《深度笔记》，学习吴恩达老师Coursera深度学习系列课程的笔记！
+In the first part, it talks about several fundamental knowledges commonly used in Competative Prigramming, such as different type of binary search and ternary serch, demos of segment tree and binary index tree, and other classical algorithms and datastructures.
+
+The second part of Programming book is a collects of fun problems classed according to the main algorithms and main idea. Including dynamic programming, prepocessing, linear time complexity. The problems in this part are mainly from Codeforces Rounds, a few of them come from other OJ or online testing.
+
+The third part is for those students (especiatly those Chinese students currently pursing for Bachelor/MS degree in local University) wants to work at Google or other top American tech-company. It gives all problems and analysis of Google 2017 online test (Kickstart 2017).
+
